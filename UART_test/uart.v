@@ -1,6 +1,6 @@
 `default_nettype none
 
-module top
+module uart
 #(
     parameter DELAY_FRAMES = 234 // 27,000,000 (27Mhz) / 115200 Baud rate
 )
@@ -38,7 +38,7 @@ initial begin
     testMemory[8] = "a";
     testMemory[9] = "b";
     testMemory[10] = "s";
-    testMemory[11] = " ";
+    testMemory[11] = "\n";
 end
 
 localparam TX_STATE_IDLE = 0;

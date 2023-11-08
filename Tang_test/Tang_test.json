@@ -8541,7 +8541,7 @@
     "top": {
       "attributes": {
         "top": "00000000000000000000000000000001",
-        "src": "/home/jishnu/Dropbox/Verilog_studies/Tang_test/counter.v:1.1-23.10"
+        "src": "/home/jishnu/codespace/fpgacodes/Tang_test/counter.v:1.1-23.10"
       },
       "ports": {
         "clk": {
@@ -8579,7 +8579,7 @@
           },
           "attributes": {
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "/home/jishnu/Dropbox/Verilog_studies/Tang_test/counter.v:13.21-13.37|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/arith_map.v:57.7-63.5"
+            "src": "/home/jishnu/codespace/fpgacodes/Tang_test/counter.v:13.21-13.37|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/arith_map.v:57.7-63.5"
           },
           "port_directions": {
             "CIN": "input",
@@ -8606,7 +8606,7 @@
           },
           "attributes": {
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "/home/jishnu/Dropbox/Verilog_studies/Tang_test/counter.v:13.21-13.37|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/arith_map.v:57.7-63.5"
+            "src": "/home/jishnu/codespace/fpgacodes/Tang_test/counter.v:13.21-13.37|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/arith_map.v:57.7-63.5"
           },
           "port_directions": {
             "CIN": "input",
@@ -8633,7 +8633,7 @@
           },
           "attributes": {
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "/home/jishnu/Dropbox/Verilog_studies/Tang_test/counter.v:13.21-13.37|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/arith_map.v:57.7-63.5"
+            "src": "/home/jishnu/codespace/fpgacodes/Tang_test/counter.v:13.21-13.37|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/arith_map.v:57.7-63.5"
           },
           "port_directions": {
             "CIN": "input",
@@ -8660,7 +8660,7 @@
           },
           "attributes": {
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "/home/jishnu/Dropbox/Verilog_studies/Tang_test/counter.v:13.21-13.37|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/arith_map.v:57.7-63.5"
+            "src": "/home/jishnu/codespace/fpgacodes/Tang_test/counter.v:13.21-13.37|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/arith_map.v:57.7-63.5"
           },
           "port_directions": {
             "CIN": "input",
@@ -8687,7 +8687,7 @@
           },
           "attributes": {
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "/home/jishnu/Dropbox/Verilog_studies/Tang_test/counter.v:13.21-13.37|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/arith_map.v:57.7-63.5"
+            "src": "/home/jishnu/codespace/fpgacodes/Tang_test/counter.v:13.21-13.37|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/arith_map.v:57.7-63.5"
           },
           "port_directions": {
             "CIN": "input",
@@ -8714,7 +8714,7 @@
           },
           "attributes": {
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "/home/jishnu/Dropbox/Verilog_studies/Tang_test/counter.v:13.21-13.37|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/arith_map.v:57.7-63.5"
+            "src": "/home/jishnu/codespace/fpgacodes/Tang_test/counter.v:13.21-13.37|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/arith_map.v:57.7-63.5"
           },
           "port_directions": {
             "CIN": "input",
@@ -8741,7 +8741,7 @@
           },
           "attributes": {
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "/home/jishnu/Dropbox/Verilog_studies/Tang_test/counter.v:13.21-13.37|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/arith_map.v:57.7-63.5"
+            "src": "/home/jishnu/codespace/fpgacodes/Tang_test/counter.v:13.21-13.37|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/arith_map.v:57.7-63.5"
           },
           "port_directions": {
             "CIN": "input",
@@ -8768,7 +8768,7 @@
           },
           "attributes": {
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "/home/jishnu/Dropbox/Verilog_studies/Tang_test/counter.v:13.21-13.37|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/arith_map.v:57.7-63.5"
+            "src": "/home/jishnu/codespace/fpgacodes/Tang_test/counter.v:13.21-13.37|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/arith_map.v:57.7-63.5"
           },
           "port_directions": {
             "CIN": "input",
@@ -8795,7 +8795,7 @@
           },
           "attributes": {
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "/home/jishnu/Dropbox/Verilog_studies/Tang_test/counter.v:13.21-13.37|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/arith_map.v:57.7-63.5"
+            "src": "/home/jishnu/codespace/fpgacodes/Tang_test/counter.v:13.21-13.37|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/arith_map.v:57.7-63.5"
           },
           "port_directions": {
             "CIN": "input",
@@ -8822,7 +8822,7 @@
           },
           "attributes": {
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "/home/jishnu/Dropbox/Verilog_studies/Tang_test/counter.v:13.21-13.37|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/arith_map.v:57.7-63.5"
+            "src": "/home/jishnu/codespace/fpgacodes/Tang_test/counter.v:13.21-13.37|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/arith_map.v:57.7-63.5"
           },
           "port_directions": {
             "CIN": "input",
@@ -8849,7 +8849,7 @@
           },
           "attributes": {
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "/home/jishnu/Dropbox/Verilog_studies/Tang_test/counter.v:13.21-13.37|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/arith_map.v:57.7-63.5"
+            "src": "/home/jishnu/codespace/fpgacodes/Tang_test/counter.v:13.21-13.37|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/arith_map.v:57.7-63.5"
           },
           "port_directions": {
             "CIN": "input",
@@ -8876,7 +8876,7 @@
           },
           "attributes": {
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "/home/jishnu/Dropbox/Verilog_studies/Tang_test/counter.v:13.21-13.37|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/arith_map.v:57.7-63.5"
+            "src": "/home/jishnu/codespace/fpgacodes/Tang_test/counter.v:13.21-13.37|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/arith_map.v:57.7-63.5"
           },
           "port_directions": {
             "CIN": "input",
@@ -8903,7 +8903,7 @@
           },
           "attributes": {
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "/home/jishnu/Dropbox/Verilog_studies/Tang_test/counter.v:13.21-13.37|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/arith_map.v:57.7-63.5"
+            "src": "/home/jishnu/codespace/fpgacodes/Tang_test/counter.v:13.21-13.37|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/arith_map.v:57.7-63.5"
           },
           "port_directions": {
             "CIN": "input",
@@ -8930,7 +8930,7 @@
           },
           "attributes": {
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "/home/jishnu/Dropbox/Verilog_studies/Tang_test/counter.v:13.21-13.37|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/arith_map.v:57.7-63.5"
+            "src": "/home/jishnu/codespace/fpgacodes/Tang_test/counter.v:13.21-13.37|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/arith_map.v:57.7-63.5"
           },
           "port_directions": {
             "CIN": "input",
@@ -8957,7 +8957,7 @@
           },
           "attributes": {
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "/home/jishnu/Dropbox/Verilog_studies/Tang_test/counter.v:13.21-13.37|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/arith_map.v:57.7-63.5"
+            "src": "/home/jishnu/codespace/fpgacodes/Tang_test/counter.v:13.21-13.37|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/arith_map.v:57.7-63.5"
           },
           "port_directions": {
             "CIN": "input",
@@ -8984,7 +8984,7 @@
           },
           "attributes": {
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "/home/jishnu/Dropbox/Verilog_studies/Tang_test/counter.v:13.21-13.37|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/arith_map.v:57.7-63.5"
+            "src": "/home/jishnu/codespace/fpgacodes/Tang_test/counter.v:13.21-13.37|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/arith_map.v:57.7-63.5"
           },
           "port_directions": {
             "CIN": "input",
@@ -9011,7 +9011,7 @@
           },
           "attributes": {
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "/home/jishnu/Dropbox/Verilog_studies/Tang_test/counter.v:13.21-13.37|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/arith_map.v:57.7-63.5"
+            "src": "/home/jishnu/codespace/fpgacodes/Tang_test/counter.v:13.21-13.37|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/arith_map.v:57.7-63.5"
           },
           "port_directions": {
             "CIN": "input",
@@ -9038,7 +9038,7 @@
           },
           "attributes": {
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "/home/jishnu/Dropbox/Verilog_studies/Tang_test/counter.v:13.21-13.37|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/arith_map.v:57.7-63.5"
+            "src": "/home/jishnu/codespace/fpgacodes/Tang_test/counter.v:13.21-13.37|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/arith_map.v:57.7-63.5"
           },
           "port_directions": {
             "CIN": "input",
@@ -9065,7 +9065,7 @@
           },
           "attributes": {
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "/home/jishnu/Dropbox/Verilog_studies/Tang_test/counter.v:13.21-13.37|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/arith_map.v:57.7-63.5"
+            "src": "/home/jishnu/codespace/fpgacodes/Tang_test/counter.v:13.21-13.37|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/arith_map.v:57.7-63.5"
           },
           "port_directions": {
             "CIN": "input",
@@ -9092,7 +9092,7 @@
           },
           "attributes": {
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "/home/jishnu/Dropbox/Verilog_studies/Tang_test/counter.v:13.21-13.37|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/arith_map.v:57.7-63.5"
+            "src": "/home/jishnu/codespace/fpgacodes/Tang_test/counter.v:13.21-13.37|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/arith_map.v:57.7-63.5"
           },
           "port_directions": {
             "CIN": "input",
@@ -9119,7 +9119,7 @@
           },
           "attributes": {
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "/home/jishnu/Dropbox/Verilog_studies/Tang_test/counter.v:13.21-13.37|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/arith_map.v:57.7-63.5"
+            "src": "/home/jishnu/codespace/fpgacodes/Tang_test/counter.v:13.21-13.37|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/arith_map.v:57.7-63.5"
           },
           "port_directions": {
             "CIN": "input",
@@ -9146,7 +9146,7 @@
           },
           "attributes": {
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "/home/jishnu/Dropbox/Verilog_studies/Tang_test/counter.v:13.21-13.37|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/arith_map.v:57.7-63.5"
+            "src": "/home/jishnu/codespace/fpgacodes/Tang_test/counter.v:13.21-13.37|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/arith_map.v:57.7-63.5"
           },
           "port_directions": {
             "CIN": "input",
@@ -9173,7 +9173,7 @@
           },
           "attributes": {
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "/home/jishnu/Dropbox/Verilog_studies/Tang_test/counter.v:13.21-13.37|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/arith_map.v:57.7-63.5"
+            "src": "/home/jishnu/codespace/fpgacodes/Tang_test/counter.v:13.21-13.37|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/arith_map.v:57.7-63.5"
           },
           "port_directions": {
             "CIN": "input",
@@ -9200,7 +9200,7 @@
           },
           "attributes": {
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "/home/jishnu/Dropbox/Verilog_studies/Tang_test/counter.v:13.21-13.37|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/arith_map.v:57.7-63.5"
+            "src": "/home/jishnu/codespace/fpgacodes/Tang_test/counter.v:13.21-13.37|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/arith_map.v:57.7-63.5"
           },
           "port_directions": {
             "CIN": "input",
@@ -9254,7 +9254,7 @@
           },
           "attributes": {
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "/home/jishnu/Dropbox/Verilog_studies/Tang_test/counter.v:11.1-20.4|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/cells_map.v:31.7-31.59"
+            "src": "/home/jishnu/codespace/fpgacodes/Tang_test/counter.v:11.1-20.4|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/cells_map.v:31.7-31.59"
           },
           "port_directions": {
             "CLK": "input",
@@ -9276,7 +9276,7 @@
           },
           "attributes": {
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "/home/jishnu/Dropbox/Verilog_studies/Tang_test/counter.v:11.1-20.4|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/cells_map.v:31.7-31.59"
+            "src": "/home/jishnu/codespace/fpgacodes/Tang_test/counter.v:11.1-20.4|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/cells_map.v:31.7-31.59"
           },
           "port_directions": {
             "CLK": "input",
@@ -9298,7 +9298,7 @@
           },
           "attributes": {
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "/home/jishnu/Dropbox/Verilog_studies/Tang_test/counter.v:11.1-20.4|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/cells_map.v:31.7-31.59"
+            "src": "/home/jishnu/codespace/fpgacodes/Tang_test/counter.v:11.1-20.4|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/cells_map.v:31.7-31.59"
           },
           "port_directions": {
             "CLK": "input",
@@ -9468,7 +9468,7 @@
           },
           "attributes": {
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "/home/jishnu/Dropbox/Verilog_studies/Tang_test/counter.v:11.1-20.4|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/cells_map.v:31.7-31.59"
+            "src": "/home/jishnu/codespace/fpgacodes/Tang_test/counter.v:11.1-20.4|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/cells_map.v:31.7-31.59"
           },
           "port_directions": {
             "CLK": "input",
@@ -9638,7 +9638,7 @@
           },
           "attributes": {
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "/home/jishnu/Dropbox/Verilog_studies/Tang_test/counter.v:11.1-20.4|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/cells_map.v:31.7-31.59"
+            "src": "/home/jishnu/codespace/fpgacodes/Tang_test/counter.v:11.1-20.4|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/cells_map.v:31.7-31.59"
           },
           "port_directions": {
             "CLK": "input",
@@ -9808,7 +9808,7 @@
           },
           "attributes": {
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "/home/jishnu/Dropbox/Verilog_studies/Tang_test/counter.v:11.1-20.4|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/cells_map.v:31.7-31.59"
+            "src": "/home/jishnu/codespace/fpgacodes/Tang_test/counter.v:11.1-20.4|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/cells_map.v:31.7-31.59"
           },
           "port_directions": {
             "CLK": "input",
@@ -9978,7 +9978,7 @@
           },
           "attributes": {
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "/home/jishnu/Dropbox/Verilog_studies/Tang_test/counter.v:11.1-20.4|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/cells_map.v:31.7-31.59"
+            "src": "/home/jishnu/codespace/fpgacodes/Tang_test/counter.v:11.1-20.4|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/cells_map.v:31.7-31.59"
           },
           "port_directions": {
             "CLK": "input",
@@ -10148,7 +10148,7 @@
           },
           "attributes": {
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "/home/jishnu/Dropbox/Verilog_studies/Tang_test/counter.v:11.1-20.4|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/cells_map.v:31.7-31.59"
+            "src": "/home/jishnu/codespace/fpgacodes/Tang_test/counter.v:11.1-20.4|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/cells_map.v:31.7-31.59"
           },
           "port_directions": {
             "CLK": "input",
@@ -10318,7 +10318,7 @@
           },
           "attributes": {
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "/home/jishnu/Dropbox/Verilog_studies/Tang_test/counter.v:11.1-20.4|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/cells_map.v:31.7-31.59"
+            "src": "/home/jishnu/codespace/fpgacodes/Tang_test/counter.v:11.1-20.4|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/cells_map.v:31.7-31.59"
           },
           "port_directions": {
             "CLK": "input",
@@ -10488,7 +10488,7 @@
           },
           "attributes": {
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "/home/jishnu/Dropbox/Verilog_studies/Tang_test/counter.v:11.1-20.4|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/cells_map.v:31.7-31.59"
+            "src": "/home/jishnu/codespace/fpgacodes/Tang_test/counter.v:11.1-20.4|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/cells_map.v:31.7-31.59"
           },
           "port_directions": {
             "CLK": "input",
@@ -10658,7 +10658,7 @@
           },
           "attributes": {
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "/home/jishnu/Dropbox/Verilog_studies/Tang_test/counter.v:11.1-20.4|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/cells_map.v:31.7-31.59"
+            "src": "/home/jishnu/codespace/fpgacodes/Tang_test/counter.v:11.1-20.4|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/cells_map.v:31.7-31.59"
           },
           "port_directions": {
             "CLK": "input",
@@ -10828,7 +10828,7 @@
           },
           "attributes": {
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "/home/jishnu/Dropbox/Verilog_studies/Tang_test/counter.v:11.1-20.4|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/cells_map.v:31.7-31.59"
+            "src": "/home/jishnu/codespace/fpgacodes/Tang_test/counter.v:11.1-20.4|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/cells_map.v:31.7-31.59"
           },
           "port_directions": {
             "CLK": "input",
@@ -11146,7 +11146,7 @@
           },
           "attributes": {
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "/home/jishnu/Dropbox/Verilog_studies/Tang_test/counter.v:11.1-20.4|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/cells_map.v:31.7-31.59"
+            "src": "/home/jishnu/codespace/fpgacodes/Tang_test/counter.v:11.1-20.4|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/cells_map.v:31.7-31.59"
           },
           "port_directions": {
             "CLK": "input",
@@ -11168,7 +11168,7 @@
           },
           "attributes": {
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "/home/jishnu/Dropbox/Verilog_studies/Tang_test/counter.v:11.1-20.4|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/cells_map.v:31.7-31.59"
+            "src": "/home/jishnu/codespace/fpgacodes/Tang_test/counter.v:11.1-20.4|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/cells_map.v:31.7-31.59"
           },
           "port_directions": {
             "CLK": "input",
@@ -11338,7 +11338,7 @@
           },
           "attributes": {
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "/home/jishnu/Dropbox/Verilog_studies/Tang_test/counter.v:11.1-20.4|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/cells_map.v:31.7-31.59"
+            "src": "/home/jishnu/codespace/fpgacodes/Tang_test/counter.v:11.1-20.4|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/cells_map.v:31.7-31.59"
           },
           "port_directions": {
             "CLK": "input",
@@ -11508,7 +11508,7 @@
           },
           "attributes": {
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "/home/jishnu/Dropbox/Verilog_studies/Tang_test/counter.v:11.1-20.4|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/cells_map.v:31.7-31.59"
+            "src": "/home/jishnu/codespace/fpgacodes/Tang_test/counter.v:11.1-20.4|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/cells_map.v:31.7-31.59"
           },
           "port_directions": {
             "CLK": "input",
@@ -11678,7 +11678,7 @@
           },
           "attributes": {
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "/home/jishnu/Dropbox/Verilog_studies/Tang_test/counter.v:11.1-20.4|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/cells_map.v:31.7-31.59"
+            "src": "/home/jishnu/codespace/fpgacodes/Tang_test/counter.v:11.1-20.4|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/cells_map.v:31.7-31.59"
           },
           "port_directions": {
             "CLK": "input",
@@ -11996,7 +11996,7 @@
           },
           "attributes": {
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "/home/jishnu/Dropbox/Verilog_studies/Tang_test/counter.v:11.1-20.4|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/cells_map.v:31.7-31.59"
+            "src": "/home/jishnu/codespace/fpgacodes/Tang_test/counter.v:11.1-20.4|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/cells_map.v:31.7-31.59"
           },
           "port_directions": {
             "CLK": "input",
@@ -12166,7 +12166,7 @@
           },
           "attributes": {
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "/home/jishnu/Dropbox/Verilog_studies/Tang_test/counter.v:11.1-20.4|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/cells_map.v:31.7-31.59"
+            "src": "/home/jishnu/codespace/fpgacodes/Tang_test/counter.v:11.1-20.4|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/cells_map.v:31.7-31.59"
           },
           "port_directions": {
             "CLK": "input",
@@ -12336,7 +12336,7 @@
           },
           "attributes": {
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "/home/jishnu/Dropbox/Verilog_studies/Tang_test/counter.v:11.1-20.4|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/cells_map.v:31.7-31.59"
+            "src": "/home/jishnu/codespace/fpgacodes/Tang_test/counter.v:11.1-20.4|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/cells_map.v:31.7-31.59"
           },
           "port_directions": {
             "CLK": "input",
@@ -12506,7 +12506,7 @@
           },
           "attributes": {
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "/home/jishnu/Dropbox/Verilog_studies/Tang_test/counter.v:11.1-20.4|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/cells_map.v:31.7-31.59"
+            "src": "/home/jishnu/codespace/fpgacodes/Tang_test/counter.v:11.1-20.4|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/cells_map.v:31.7-31.59"
           },
           "port_directions": {
             "CLK": "input",
@@ -12676,7 +12676,7 @@
           },
           "attributes": {
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "/home/jishnu/Dropbox/Verilog_studies/Tang_test/counter.v:11.1-20.4|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/cells_map.v:31.7-31.59"
+            "src": "/home/jishnu/codespace/fpgacodes/Tang_test/counter.v:11.1-20.4|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/cells_map.v:31.7-31.59"
           },
           "port_directions": {
             "CLK": "input",
@@ -12846,7 +12846,7 @@
           },
           "attributes": {
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "/home/jishnu/Dropbox/Verilog_studies/Tang_test/counter.v:11.1-20.4|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/cells_map.v:31.7-31.59"
+            "src": "/home/jishnu/codespace/fpgacodes/Tang_test/counter.v:11.1-20.4|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/cells_map.v:31.7-31.59"
           },
           "port_directions": {
             "CLK": "input",
@@ -13016,7 +13016,7 @@
           },
           "attributes": {
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "/home/jishnu/Dropbox/Verilog_studies/Tang_test/counter.v:11.1-20.4|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/cells_map.v:31.7-31.59"
+            "src": "/home/jishnu/codespace/fpgacodes/Tang_test/counter.v:11.1-20.4|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/cells_map.v:31.7-31.59"
           },
           "port_directions": {
             "CLK": "input",
@@ -13484,7 +13484,7 @@
           },
           "attributes": {
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "/home/jishnu/Dropbox/Verilog_studies/Tang_test/counter.v:11.1-20.4|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/cells_map.v:19.7-19.56"
+            "src": "/home/jishnu/codespace/fpgacodes/Tang_test/counter.v:11.1-20.4|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/cells_map.v:19.7-19.56"
           },
           "port_directions": {
             "CE": "input",
@@ -13506,7 +13506,7 @@
           },
           "attributes": {
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "/home/jishnu/Dropbox/Verilog_studies/Tang_test/counter.v:11.1-20.4|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/cells_map.v:19.7-19.56"
+            "src": "/home/jishnu/codespace/fpgacodes/Tang_test/counter.v:11.1-20.4|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/cells_map.v:19.7-19.56"
           },
           "port_directions": {
             "CE": "input",
@@ -13676,7 +13676,7 @@
           },
           "attributes": {
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "/home/jishnu/Dropbox/Verilog_studies/Tang_test/counter.v:11.1-20.4|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/cells_map.v:19.7-19.56"
+            "src": "/home/jishnu/codespace/fpgacodes/Tang_test/counter.v:11.1-20.4|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/cells_map.v:19.7-19.56"
           },
           "port_directions": {
             "CE": "input",
@@ -13846,7 +13846,7 @@
           },
           "attributes": {
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "/home/jishnu/Dropbox/Verilog_studies/Tang_test/counter.v:11.1-20.4|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/cells_map.v:19.7-19.56"
+            "src": "/home/jishnu/codespace/fpgacodes/Tang_test/counter.v:11.1-20.4|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/cells_map.v:19.7-19.56"
           },
           "port_directions": {
             "CE": "input",
@@ -14016,7 +14016,7 @@
           },
           "attributes": {
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "/home/jishnu/Dropbox/Verilog_studies/Tang_test/counter.v:11.1-20.4|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/cells_map.v:19.7-19.56"
+            "src": "/home/jishnu/codespace/fpgacodes/Tang_test/counter.v:11.1-20.4|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/cells_map.v:19.7-19.56"
           },
           "port_directions": {
             "CE": "input",
@@ -14186,7 +14186,7 @@
           },
           "attributes": {
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "/home/jishnu/Dropbox/Verilog_studies/Tang_test/counter.v:11.1-20.4|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/cells_map.v:19.7-19.56"
+            "src": "/home/jishnu/codespace/fpgacodes/Tang_test/counter.v:11.1-20.4|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/cells_map.v:19.7-19.56"
           },
           "port_directions": {
             "CE": "input",
@@ -14719,7 +14719,7 @@
           "hide_name": 0,
           "bits": [ 2 ],
           "attributes": {
-            "src": "/home/jishnu/Dropbox/Verilog_studies/Tang_test/counter.v:3.11-3.14"
+            "src": "/home/jishnu/codespace/fpgacodes/Tang_test/counter.v:3.11-3.14"
           }
         },
         "clk_IBUF_I_O": {
@@ -14732,7 +14732,7 @@
           "hide_name": 0,
           "bits": [ 62, 28, 76, 74, 71, 68, 65, 52, 17, 13, 60, 58, 55, 49, 46, 43, 40, 37, 34, 31, 24, 21, 82, 80 ],
           "attributes": {
-            "src": "/home/jishnu/Dropbox/Verilog_studies/Tang_test/counter.v:9.12-9.24"
+            "src": "/home/jishnu/codespace/fpgacodes/Tang_test/counter.v:9.12-9.24"
           }
         },
         "clockCounter_ALU_I1_8_COUT": {
@@ -14740,7 +14740,7 @@
           "bits": [ 26, 27, 73, 70, 67, 64, 51, 16, 10, 11, 57, 54, 48, 45, 42, 39, 36, 33, 30, 23, 19, 20, 78, 79 ],
           "attributes": {
             "force_downto": "00000000000000000000000000000001",
-            "src": "/home/jishnu/Dropbox/Verilog_studies/Tang_test/counter.v:13.21-13.37|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/arith_map.v:38.25-38.27",
+            "src": "/home/jishnu/codespace/fpgacodes/Tang_test/counter.v:13.21-13.37|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/arith_map.v:38.25-38.27",
             "unused_bits": "23"
           }
         },
@@ -14749,7 +14749,7 @@
           "bits": [ 12, 26, 27, 73, 70, 67, 64, 51, 16, 10, 11, 57, 54, 48, 45, 42, 39, 36, 33, 30, 23, 19, 20, 78 ],
           "attributes": {
             "force_downto": "00000000000000000000000000000001",
-            "src": "/home/jishnu/Dropbox/Verilog_studies/Tang_test/counter.v:13.21-13.37|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/arith_map.v:52.24-52.25"
+            "src": "/home/jishnu/codespace/fpgacodes/Tang_test/counter.v:13.21-13.37|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/arith_map.v:52.24-52.25"
           }
         },
         "clockCounter_ALU_I1_I3": {
@@ -15867,7 +15867,7 @@
           "bits": [ 63, 29, 77, 75, 72, 69, 66, 53, 18, 15, 61, 59, 56, 50, 47, 44, 41, 38, 35, 32, 25, 22, 83, 81 ],
           "attributes": {
             "force_downto": "00000000000000000000000000000001",
-            "src": "/home/jishnu/Dropbox/Verilog_studies/Tang_test/counter.v:13.21-13.37|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/arith_map.v:34.28-34.29"
+            "src": "/home/jishnu/codespace/fpgacodes/Tang_test/counter.v:13.21-13.37|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/arith_map.v:34.28-34.29"
           }
         },
         "clockCounter_DFFR_Q_RESET": {
@@ -15930,14 +15930,14 @@
           "hide_name": 0,
           "bits": [ 3, 4, 5, 6, 7, 8 ],
           "attributes": {
-            "src": "/home/jishnu/Dropbox/Verilog_studies/Tang_test/counter.v:4.18-4.21"
+            "src": "/home/jishnu/codespace/fpgacodes/Tang_test/counter.v:4.18-4.21"
           }
         },
         "ledCounter": {
           "hide_name": 0,
           "bits": [ 299, 290, 281, 272, 263, 260 ],
           "attributes": {
-            "src": "/home/jishnu/Dropbox/Verilog_studies/Tang_test/counter.v:8.11-8.21"
+            "src": "/home/jishnu/codespace/fpgacodes/Tang_test/counter.v:8.11-8.21"
           }
         },
         "ledCounter_DFFE_Q_1_CE": {

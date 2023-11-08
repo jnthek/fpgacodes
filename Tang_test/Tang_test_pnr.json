@@ -37,12 +37,12 @@
       },
       "attributes": {
         "top": "00000000000000000000000000000001",
-        "src": "/home/jishnu/Dropbox/Verilog_studies/Tang_test/counter.v:1.1-23.10"
+        "src": "/home/jishnu/codespace/fpgacodes/Tang_test/counter.v:1.1-23.10"
       },
       "ports": {
         "led": {
           "direction": "output",
-          "bits": [ 838, 838, 838, 1836017711, 1836017711, 1836017711 ]
+          "bits": [ 838, 838, 838, 1836017711, 1698763040, 1127756114 ]
         },
         "clk": {
           "direction": "input",
@@ -62,7 +62,7 @@
             "BEL_STRENGTH": "00000000000000000000000000000001",
             "NEXTPNR_BEL": "R16C8_SLICE4",
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "/home/jishnu/Dropbox/Verilog_studies/Tang_test/counter.v:11.1-20.4|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/cells_map.v:31.7-31.59"
+            "src": "/home/jishnu/codespace/fpgacodes/Tang_test/counter.v:11.1-20.4|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/cells_map.v:31.7-31.59"
           },
           "port_directions": {
             "LSR": "input",
@@ -99,7 +99,7 @@
             "BEL_STRENGTH": "00000000000000000000000000000001",
             "NEXTPNR_BEL": "R18C7_SLICE1",
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "/home/jishnu/Dropbox/Verilog_studies/Tang_test/counter.v:11.1-20.4|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/cells_map.v:31.7-31.59"
+            "src": "/home/jishnu/codespace/fpgacodes/Tang_test/counter.v:11.1-20.4|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/cells_map.v:31.7-31.59"
           },
           "port_directions": {
             "LSR": "input",
@@ -136,7 +136,7 @@
             "BEL_STRENGTH": "00000000000000000000000000000001",
             "NEXTPNR_BEL": "R17C6_SLICE2",
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "/home/jishnu/Dropbox/Verilog_studies/Tang_test/counter.v:11.1-20.4|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/cells_map.v:31.7-31.59"
+            "src": "/home/jishnu/codespace/fpgacodes/Tang_test/counter.v:11.1-20.4|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/cells_map.v:31.7-31.59"
           },
           "port_directions": {
             "LSR": "input",
@@ -173,7 +173,7 @@
             "BEL_STRENGTH": "00000000000000000000000000000001",
             "NEXTPNR_BEL": "R15C6_SLICE3",
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "/home/jishnu/Dropbox/Verilog_studies/Tang_test/counter.v:11.1-20.4|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/cells_map.v:31.7-31.59"
+            "src": "/home/jishnu/codespace/fpgacodes/Tang_test/counter.v:11.1-20.4|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/cells_map.v:31.7-31.59"
           },
           "port_directions": {
             "LSR": "input",
@@ -210,7 +210,7 @@
             "BEL_STRENGTH": "00000000000000000000000000000001",
             "NEXTPNR_BEL": "R15C6_SLICE0",
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "/home/jishnu/Dropbox/Verilog_studies/Tang_test/counter.v:11.1-20.4|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/cells_map.v:31.7-31.59"
+            "src": "/home/jishnu/codespace/fpgacodes/Tang_test/counter.v:11.1-20.4|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/cells_map.v:31.7-31.59"
           },
           "port_directions": {
             "LSR": "input",
@@ -247,7 +247,7 @@
             "BEL_STRENGTH": "00000000000000000000000000000001",
             "NEXTPNR_BEL": "R14C2_SLICE4",
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "/home/jishnu/Dropbox/Verilog_studies/Tang_test/counter.v:11.1-20.4|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/cells_map.v:19.7-19.56"
+            "src": "/home/jishnu/codespace/fpgacodes/Tang_test/counter.v:11.1-20.4|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/cells_map.v:19.7-19.56"
           },
           "port_directions": {
             "LSR": "input",
@@ -284,7 +284,7 @@
             "BEL_STRENGTH": "00000000000000000000000000000001",
             "NEXTPNR_BEL": "R15C2_SLICE0",
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "/home/jishnu/Dropbox/Verilog_studies/Tang_test/counter.v:11.1-20.4|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/cells_map.v:19.7-19.56"
+            "src": "/home/jishnu/codespace/fpgacodes/Tang_test/counter.v:11.1-20.4|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/cells_map.v:19.7-19.56"
           },
           "port_directions": {
             "LSR": "input",
@@ -321,7 +321,7 @@
             "BEL_STRENGTH": "00000000000000000000000000000001",
             "NEXTPNR_BEL": "R17C5_SLICE2",
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "/home/jishnu/Dropbox/Verilog_studies/Tang_test/counter.v:11.1-20.4|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/cells_map.v:31.7-31.59"
+            "src": "/home/jishnu/codespace/fpgacodes/Tang_test/counter.v:11.1-20.4|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/cells_map.v:31.7-31.59"
           },
           "port_directions": {
             "LSR": "input",
@@ -358,7 +358,7 @@
             "BEL_STRENGTH": "00000000000000000000000000000001",
             "NEXTPNR_BEL": "R17C5_SLICE4",
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "/home/jishnu/Dropbox/Verilog_studies/Tang_test/counter.v:11.1-20.4|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/cells_map.v:31.7-31.59"
+            "src": "/home/jishnu/codespace/fpgacodes/Tang_test/counter.v:11.1-20.4|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/cells_map.v:31.7-31.59"
           },
           "port_directions": {
             "LSR": "input",
@@ -395,7 +395,7 @@
             "BEL_STRENGTH": "00000000000000000000000000000001",
             "NEXTPNR_BEL": "R15C5_SLICE1",
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "/home/jishnu/Dropbox/Verilog_studies/Tang_test/counter.v:11.1-20.4|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/cells_map.v:31.7-31.59"
+            "src": "/home/jishnu/codespace/fpgacodes/Tang_test/counter.v:11.1-20.4|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/cells_map.v:31.7-31.59"
           },
           "port_directions": {
             "LSR": "input",
@@ -432,7 +432,7 @@
             "BEL_STRENGTH": "00000000000000000000000000000001",
             "NEXTPNR_BEL": "R15C5_SLICE2",
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "/home/jishnu/Dropbox/Verilog_studies/Tang_test/counter.v:11.1-20.4|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/cells_map.v:31.7-31.59"
+            "src": "/home/jishnu/codespace/fpgacodes/Tang_test/counter.v:11.1-20.4|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/cells_map.v:31.7-31.59"
           },
           "port_directions": {
             "LSR": "input",
@@ -469,7 +469,7 @@
             "BEL_STRENGTH": "00000000000000000000000000000001",
             "NEXTPNR_BEL": "R21C2_SLICE4",
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "/home/jishnu/Dropbox/Verilog_studies/Tang_test/counter.v:11.1-20.4|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/cells_map.v:19.7-19.56"
+            "src": "/home/jishnu/codespace/fpgacodes/Tang_test/counter.v:11.1-20.4|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/cells_map.v:19.7-19.56"
           },
           "port_directions": {
             "LSR": "input",
@@ -506,7 +506,7 @@
             "BEL_STRENGTH": "00000000000000000000000000000001",
             "NEXTPNR_BEL": "R18C5_SLICE4",
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "/home/jishnu/Dropbox/Verilog_studies/Tang_test/counter.v:11.1-20.4|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/cells_map.v:31.7-31.59"
+            "src": "/home/jishnu/codespace/fpgacodes/Tang_test/counter.v:11.1-20.4|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/cells_map.v:31.7-31.59"
           },
           "port_directions": {
             "LSR": "input",
@@ -543,7 +543,7 @@
             "BEL_STRENGTH": "00000000000000000000000000000001",
             "NEXTPNR_BEL": "R18C5_SLICE2",
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "/home/jishnu/Dropbox/Verilog_studies/Tang_test/counter.v:11.1-20.4|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/cells_map.v:31.7-31.59"
+            "src": "/home/jishnu/codespace/fpgacodes/Tang_test/counter.v:11.1-20.4|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/cells_map.v:31.7-31.59"
           },
           "port_directions": {
             "LSR": "input",
@@ -580,7 +580,7 @@
             "BEL_STRENGTH": "00000000000000000000000000000001",
             "NEXTPNR_BEL": "R17C6_SLICE5",
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "/home/jishnu/Dropbox/Verilog_studies/Tang_test/counter.v:11.1-20.4|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/cells_map.v:31.7-31.59"
+            "src": "/home/jishnu/codespace/fpgacodes/Tang_test/counter.v:11.1-20.4|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/cells_map.v:31.7-31.59"
           },
           "port_directions": {
             "LSR": "input",
@@ -617,7 +617,7 @@
             "BEL_STRENGTH": "00000000000000000000000000000001",
             "NEXTPNR_BEL": "R15C4_SLICE4",
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "/home/jishnu/Dropbox/Verilog_studies/Tang_test/counter.v:11.1-20.4|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/cells_map.v:31.7-31.59"
+            "src": "/home/jishnu/codespace/fpgacodes/Tang_test/counter.v:11.1-20.4|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/cells_map.v:31.7-31.59"
           },
           "port_directions": {
             "LSR": "input",
@@ -654,7 +654,7 @@
             "BEL_STRENGTH": "00000000000000000000000000000001",
             "NEXTPNR_BEL": "R22C2_SLICE4",
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "/home/jishnu/Dropbox/Verilog_studies/Tang_test/counter.v:11.1-20.4|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/cells_map.v:19.7-19.56"
+            "src": "/home/jishnu/codespace/fpgacodes/Tang_test/counter.v:11.1-20.4|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/cells_map.v:19.7-19.56"
           },
           "port_directions": {
             "LSR": "input",
@@ -691,7 +691,7 @@
             "BEL_STRENGTH": "00000000000000000000000000000001",
             "NEXTPNR_BEL": "R16C8_SLICE2",
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "/home/jishnu/Dropbox/Verilog_studies/Tang_test/counter.v:11.1-20.4|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/cells_map.v:31.7-31.59"
+            "src": "/home/jishnu/codespace/fpgacodes/Tang_test/counter.v:11.1-20.4|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/cells_map.v:31.7-31.59"
           },
           "port_directions": {
             "LSR": "input",
@@ -728,7 +728,7 @@
             "BEL_STRENGTH": "00000000000000000000000000000001",
             "NEXTPNR_BEL": "R17C3_SLICE4",
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "/home/jishnu/Dropbox/Verilog_studies/Tang_test/counter.v:11.1-20.4|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/cells_map.v:31.7-31.59"
+            "src": "/home/jishnu/codespace/fpgacodes/Tang_test/counter.v:11.1-20.4|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/cells_map.v:31.7-31.59"
           },
           "port_directions": {
             "LSR": "input",
@@ -765,7 +765,7 @@
             "BEL_STRENGTH": "00000000000000000000000000000001",
             "NEXTPNR_BEL": "R17C4_SLICE0",
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "/home/jishnu/Dropbox/Verilog_studies/Tang_test/counter.v:11.1-20.4|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/cells_map.v:31.7-31.59"
+            "src": "/home/jishnu/codespace/fpgacodes/Tang_test/counter.v:11.1-20.4|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/cells_map.v:31.7-31.59"
           },
           "port_directions": {
             "LSR": "input",
@@ -802,7 +802,7 @@
             "BEL_STRENGTH": "00000000000000000000000000000001",
             "NEXTPNR_BEL": "R17C4_SLICE5",
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "/home/jishnu/Dropbox/Verilog_studies/Tang_test/counter.v:11.1-20.4|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/cells_map.v:31.7-31.59"
+            "src": "/home/jishnu/codespace/fpgacodes/Tang_test/counter.v:11.1-20.4|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/cells_map.v:31.7-31.59"
           },
           "port_directions": {
             "LSR": "input",
@@ -839,7 +839,7 @@
             "BEL_STRENGTH": "00000000000000000000000000000001",
             "NEXTPNR_BEL": "R17C4_SLICE2",
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "/home/jishnu/Dropbox/Verilog_studies/Tang_test/counter.v:11.1-20.4|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/cells_map.v:31.7-31.59"
+            "src": "/home/jishnu/codespace/fpgacodes/Tang_test/counter.v:11.1-20.4|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/cells_map.v:31.7-31.59"
           },
           "port_directions": {
             "LSR": "input",
@@ -876,7 +876,7 @@
             "BEL_STRENGTH": "00000000000000000000000000000001",
             "NEXTPNR_BEL": "R18C6_SLICE5",
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "/home/jishnu/Dropbox/Verilog_studies/Tang_test/counter.v:11.1-20.4|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/cells_map.v:31.7-31.59"
+            "src": "/home/jishnu/codespace/fpgacodes/Tang_test/counter.v:11.1-20.4|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/cells_map.v:31.7-31.59"
           },
           "port_directions": {
             "LSR": "input",
@@ -913,7 +913,7 @@
             "BEL_STRENGTH": "00000000000000000000000000000001",
             "NEXTPNR_BEL": "R24C3_SLICE3",
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "/home/jishnu/Dropbox/Verilog_studies/Tang_test/counter.v:11.1-20.4|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/cells_map.v:19.7-19.56"
+            "src": "/home/jishnu/codespace/fpgacodes/Tang_test/counter.v:11.1-20.4|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/cells_map.v:19.7-19.56"
           },
           "port_directions": {
             "LSR": "input",
@@ -950,7 +950,7 @@
             "BEL_STRENGTH": "00000000000000000000000000000001",
             "NEXTPNR_BEL": "R18C7_SLICE4",
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "/home/jishnu/Dropbox/Verilog_studies/Tang_test/counter.v:11.1-20.4|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/cells_map.v:31.7-31.59"
+            "src": "/home/jishnu/codespace/fpgacodes/Tang_test/counter.v:11.1-20.4|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/cells_map.v:31.7-31.59"
           },
           "port_directions": {
             "LSR": "input",
@@ -987,7 +987,7 @@
             "BEL_STRENGTH": "00000000000000000000000000000001",
             "NEXTPNR_BEL": "R23C2_SLICE0",
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "/home/jishnu/Dropbox/Verilog_studies/Tang_test/counter.v:11.1-20.4|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/cells_map.v:19.7-19.56"
+            "src": "/home/jishnu/codespace/fpgacodes/Tang_test/counter.v:11.1-20.4|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/cells_map.v:19.7-19.56"
           },
           "port_directions": {
             "LSR": "input",
@@ -1024,7 +1024,7 @@
             "BEL_STRENGTH": "00000000000000000000000000000001",
             "NEXTPNR_BEL": "R18C7_SLICE2",
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "/home/jishnu/Dropbox/Verilog_studies/Tang_test/counter.v:11.1-20.4|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/cells_map.v:31.7-31.59"
+            "src": "/home/jishnu/codespace/fpgacodes/Tang_test/counter.v:11.1-20.4|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/cells_map.v:31.7-31.59"
           },
           "port_directions": {
             "LSR": "input",
@@ -1061,7 +1061,7 @@
             "BEL_STRENGTH": "00000000000000000000000000000001",
             "NEXTPNR_BEL": "R17C6_SLICE0",
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "/home/jishnu/Dropbox/Verilog_studies/Tang_test/counter.v:11.1-20.4|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/cells_map.v:31.7-31.59"
+            "src": "/home/jishnu/codespace/fpgacodes/Tang_test/counter.v:11.1-20.4|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/cells_map.v:31.7-31.59"
           },
           "port_directions": {
             "LSR": "input",
@@ -1098,7 +1098,7 @@
             "BEL_STRENGTH": "00000000000000000000000000000001",
             "NEXTPNR_BEL": "R17C7_SLICE0",
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "/home/jishnu/Dropbox/Verilog_studies/Tang_test/counter.v:11.1-20.4|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/cells_map.v:31.7-31.59"
+            "src": "/home/jishnu/codespace/fpgacodes/Tang_test/counter.v:11.1-20.4|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/cells_map.v:31.7-31.59"
           },
           "port_directions": {
             "LSR": "input",
@@ -1135,7 +1135,7 @@
             "BEL_STRENGTH": "00000000000000000000000000000001",
             "NEXTPNR_BEL": "R17C8_SLICE4",
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "/home/jishnu/Dropbox/Verilog_studies/Tang_test/counter.v:11.1-20.4|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/cells_map.v:31.7-31.59"
+            "src": "/home/jishnu/codespace/fpgacodes/Tang_test/counter.v:11.1-20.4|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/cells_map.v:31.7-31.59"
           },
           "port_directions": {
             "LSR": "input",
@@ -5308,7 +5308,7 @@
           "attributes": {
             "BEL_STRENGTH": "00000000000000000000000000000110",
             "NEXTPNR_BEL": "R16C1_IOBB",
-            "src": "/home/jishnu/Dropbox/Verilog_studies/Tang_test/counter.v:4.18-4.21",
+            "src": "/home/jishnu/codespace/fpgacodes/Tang_test/counter.v:4.18-4.21",
             "&DRIVE=8": "00000000000000000000000000000001",
             "&IO_TYPE=LVCMOS18": "00000000000000000000000000000001"
           },
@@ -6145,7 +6145,7 @@
           "attributes": {
             "BEL_STRENGTH": "00000000000000000000000000000110",
             "NEXTPNR_BEL": "R21C1_IOBB",
-            "src": "/home/jishnu/Dropbox/Verilog_studies/Tang_test/counter.v:4.18-4.21",
+            "src": "/home/jishnu/codespace/fpgacodes/Tang_test/counter.v:4.18-4.21",
             "&DRIVE=8": "00000000000000000000000000000001",
             "&IO_TYPE=LVCMOS18": "00000000000000000000000000000001"
           },
@@ -6173,7 +6173,7 @@
           "attributes": {
             "BEL_STRENGTH": "00000000000000000000000000000110",
             "NEXTPNR_BEL": "R17C47_IOBA",
-            "src": "/home/jishnu/Dropbox/Verilog_studies/Tang_test/counter.v:3.11-3.14",
+            "src": "/home/jishnu/codespace/fpgacodes/Tang_test/counter.v:3.11-3.14",
             "&IO_TYPE=LVCMOS33": "00000000000000000000000000000001",
             "&PULL_MODE=UP": "00000000000000000000000000000001"
           },
@@ -6914,7 +6914,7 @@
           "attributes": {
             "BEL_STRENGTH": "00000000000000000000000000000110",
             "NEXTPNR_BEL": "R22C1_IOBB",
-            "src": "/home/jishnu/Dropbox/Verilog_studies/Tang_test/counter.v:4.18-4.21",
+            "src": "/home/jishnu/codespace/fpgacodes/Tang_test/counter.v:4.18-4.21",
             "&DRIVE=8": "00000000000000000000000000000001",
             "&IO_TYPE=LVCMOS18": "00000000000000000000000000000001"
           },
@@ -7627,7 +7627,7 @@
           "attributes": {
             "BEL_STRENGTH": "00000000000000000000000000000110",
             "NEXTPNR_BEL": "R26C1_IOBB",
-            "src": "/home/jishnu/Dropbox/Verilog_studies/Tang_test/counter.v:4.18-4.21",
+            "src": "/home/jishnu/codespace/fpgacodes/Tang_test/counter.v:4.18-4.21",
             "&DRIVE=8": "00000000000000000000000000000001",
             "&IO_TYPE=LVCMOS18": "00000000000000000000000000000001"
           },
@@ -7873,7 +7873,7 @@
           "attributes": {
             "BEL_STRENGTH": "00000000000000000000000000000110",
             "NEXTPNR_BEL": "R25C1_IOBB",
-            "src": "/home/jishnu/Dropbox/Verilog_studies/Tang_test/counter.v:4.18-4.21",
+            "src": "/home/jishnu/codespace/fpgacodes/Tang_test/counter.v:4.18-4.21",
             "&DRIVE=8": "00000000000000000000000000000001",
             "&IO_TYPE=LVCMOS18": "00000000000000000000000000000001"
           },
@@ -8047,7 +8047,7 @@
           "attributes": {
             "BEL_STRENGTH": "00000000000000000000000000000110",
             "NEXTPNR_BEL": "R15C1_IOBA",
-            "src": "/home/jishnu/Dropbox/Verilog_studies/Tang_test/counter.v:4.18-4.21",
+            "src": "/home/jishnu/codespace/fpgacodes/Tang_test/counter.v:4.18-4.21",
             "&DRIVE=8": "00000000000000000000000000000001",
             "&IO_TYPE=LVCMOS18": "00000000000000000000000000000001"
           },
@@ -9299,7 +9299,7 @@
           "bits": [ 3879463 ] ,
           "attributes": {
             "ROUTING": "R14C2_Q4;;1;R14C2_S10;R14C2_Q4_S100;1;R14C2_S21;R14C2_S100_S210;1;R14C2_A6;R14C2_S210_A6;1",
-            "src": "/home/jishnu/Dropbox/Verilog_studies/Tang_test/counter.v:8.11-8.21"
+            "src": "/home/jishnu/codespace/fpgacodes/Tang_test/counter.v:8.11-8.21"
           }
         },
         "led_OBUF_O_5_I": {
@@ -9369,7 +9369,7 @@
           "bits": [ 3879446 ] ,
           "attributes": {
             "ROUTING": "R15C2_Q0;;1;R15C2_N13;R15C2_Q0_N130;1;R15C2_A2;R15C2_N130_A2;1",
-            "src": "/home/jishnu/Dropbox/Verilog_studies/Tang_test/counter.v:8.11-8.21"
+            "src": "/home/jishnu/codespace/fpgacodes/Tang_test/counter.v:8.11-8.21"
           }
         },
         "led_OBUF_O_4_I": {
@@ -9439,7 +9439,7 @@
           "bits": [ 3879429 ] ,
           "attributes": {
             "ROUTING": "R21C2_Q4;;1;R21C2_E13;R21C2_Q4_E130;1;R21C2_A6;R21C2_E130_A6;1",
-            "src": "/home/jishnu/Dropbox/Verilog_studies/Tang_test/counter.v:8.11-8.21"
+            "src": "/home/jishnu/codespace/fpgacodes/Tang_test/counter.v:8.11-8.21"
           }
         },
         "led_OBUF_O_3_I": {
@@ -9509,7 +9509,7 @@
           "bits": [ 3879412 ] ,
           "attributes": {
             "ROUTING": "R22C2_Q4;;1;R22C2_E13;R22C2_Q4_E130;1;R22C2_A7;R22C2_E130_A7;1",
-            "src": "/home/jishnu/Dropbox/Verilog_studies/Tang_test/counter.v:8.11-8.21"
+            "src": "/home/jishnu/codespace/fpgacodes/Tang_test/counter.v:8.11-8.21"
           }
         },
         "led_OBUF_O_2_I": {
@@ -9579,7 +9579,7 @@
           "bits": [ 3879395 ] ,
           "attributes": {
             "ROUTING": "R24C3_Q3;;1;R24C3_X06;R24C3_Q3_X06;1;R24C3_A4;R24C3_X06_A4;1",
-            "src": "/home/jishnu/Dropbox/Verilog_studies/Tang_test/counter.v:8.11-8.21"
+            "src": "/home/jishnu/codespace/fpgacodes/Tang_test/counter.v:8.11-8.21"
           }
         },
         "led_OBUF_O_1_I": {
@@ -9601,7 +9601,7 @@
           "bits": [ 3879391 ] ,
           "attributes": {
             "ROUTING": "R23C2_Q0;;1;R23C2_W20;R23C2_Q0_W200;1;R23C2_A7;R23C2_W200_A7;1",
-            "src": "/home/jishnu/Dropbox/Verilog_studies/Tang_test/counter.v:8.11-8.21"
+            "src": "/home/jishnu/codespace/fpgacodes/Tang_test/counter.v:8.11-8.21"
           }
         },
         "led_OBUF_O_I": {
@@ -10997,7 +10997,7 @@
           "bits": [ 3879013 ] ,
           "attributes": {
             "ROUTING": "R16C7_F5;;1;R16C7_S10;R16C7_F5_S100;1;R17C7_S20;R17C7_S101_S200;1;R18C7_X01;R18C7_S201_X01;1;R18C7_A1;R18C7_X01_A1;1",
-            "src": "/home/jishnu/Dropbox/Verilog_studies/Tang_test/counter.v:13.21-13.37|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/arith_map.v:34.28-34.29",
+            "src": "/home/jishnu/codespace/fpgacodes/Tang_test/counter.v:13.21-13.37|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/arith_map.v:34.28-34.29",
             "force_downto": "00000000000000000000000000000001"
           }
         },
@@ -11006,7 +11006,7 @@
           "bits": [ 3879012 ] ,
           "attributes": {
             "ROUTING": "R16C7_W25;R16C7_N252_W250;1;R16C5_W20;R16C5_W252_W200;1;R16C4_S20;R16C4_W201_S200;1;R17C4_C7;R17C4_S201_C7;1;R18C7_Q1;;1;R18C7_S13;R18C7_Q1_S130;1;R18C7_N25;R18C7_S130_N250;1;R16C7_B5;R16C7_N252_B5;1",
-            "src": "/home/jishnu/Dropbox/Verilog_studies/Tang_test/counter.v:9.12-9.24"
+            "src": "/home/jishnu/codespace/fpgacodes/Tang_test/counter.v:9.12-9.24"
           }
         },
         "clockCounter_DFFR_Q_D[23]": {
@@ -11014,7 +11014,7 @@
           "bits": [ 3879010 ] ,
           "attributes": {
             "ROUTING": "R16C8_F0;;1;R16C8_X05;R16C8_F0_X05;1;R16C8_A4;R16C8_X05_A4;1",
-            "src": "/home/jishnu/Dropbox/Verilog_studies/Tang_test/counter.v:13.21-13.37|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/arith_map.v:34.28-34.29",
+            "src": "/home/jishnu/codespace/fpgacodes/Tang_test/counter.v:13.21-13.37|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/arith_map.v:34.28-34.29",
             "force_downto": "00000000000000000000000000000001"
           }
         },
@@ -11023,7 +11023,7 @@
           "bits": [ 3879009 ] ,
           "attributes": {
             "ROUTING": "R17C8_W20;R17C8_S101_W200;1;R17C6_W20;R17C6_W202_W200;1;R17C4_D7;R17C4_W202_D7;1;R16C8_Q4;;1;R16C8_S10;R16C8_Q4_S100;1;R16C8_B0;R16C8_S100_B0;1",
-            "src": "/home/jishnu/Dropbox/Verilog_studies/Tang_test/counter.v:9.12-9.24"
+            "src": "/home/jishnu/codespace/fpgacodes/Tang_test/counter.v:9.12-9.24"
           }
         },
         "clockCounter_ALU_I1_8_COUT[23]": {
@@ -11032,7 +11032,7 @@
           "attributes": {
             "ROUTING": " ",
             "unused_bits": "23",
-            "src": "/home/jishnu/Dropbox/Verilog_studies/Tang_test/counter.v:13.21-13.37|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/arith_map.v:38.25-38.27",
+            "src": "/home/jishnu/codespace/fpgacodes/Tang_test/counter.v:13.21-13.37|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/arith_map.v:38.25-38.27",
             "force_downto": "00000000000000000000000000000001"
           }
         },
@@ -11042,7 +11042,7 @@
           "attributes": {
             "ROUTING": " ",
             "unused_bits": "23",
-            "src": "/home/jishnu/Dropbox/Verilog_studies/Tang_test/counter.v:13.21-13.37|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/arith_map.v:52.24-52.25",
+            "src": "/home/jishnu/codespace/fpgacodes/Tang_test/counter.v:13.21-13.37|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/arith_map.v:52.24-52.25",
             "force_downto": "00000000000000000000000000000001"
           }
         },
@@ -11051,7 +11051,7 @@
           "bits": [ 3879004 ] ,
           "attributes": {
             "ROUTING": "R16C4_F3;;1;R16C4_S13;R16C4_F3_S130;1;R17C4_A0;R17C4_S131_A0;1",
-            "src": "/home/jishnu/Dropbox/Verilog_studies/Tang_test/counter.v:13.21-13.37|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/arith_map.v:34.28-34.29",
+            "src": "/home/jishnu/codespace/fpgacodes/Tang_test/counter.v:13.21-13.37|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/arith_map.v:34.28-34.29",
             "force_downto": "00000000000000000000000000000001"
           }
         },
@@ -11060,7 +11060,7 @@
           "bits": [ 3879003 ] ,
           "attributes": {
             "ROUTING": "R17C4_S10;R17C4_Q0_S100;1;R17C4_S21;R17C4_S100_S210;1;R17C4_A6;R17C4_S210_A6;1;R17C4_Q0;;1;R17C4_N13;R17C4_Q0_N130;1;R16C4_B3;R16C4_N131_B3;1",
-            "src": "/home/jishnu/Dropbox/Verilog_studies/Tang_test/counter.v:9.12-9.24"
+            "src": "/home/jishnu/codespace/fpgacodes/Tang_test/counter.v:9.12-9.24"
           }
         },
         "clockCounter_DFFR_Q_D[3]": {
@@ -11068,7 +11068,7 @@
           "bits": [ 3879001 ] ,
           "attributes": {
             "ROUTING": "R16C4_F4;;1;R16C4_EW10;R16C4_F4_EW10;1;R16C3_S21;R16C3_W111_S210;1;R17C3_A4;R17C3_S211_A4;1",
-            "src": "/home/jishnu/Dropbox/Verilog_studies/Tang_test/counter.v:13.21-13.37|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/arith_map.v:34.28-34.29",
+            "src": "/home/jishnu/codespace/fpgacodes/Tang_test/counter.v:13.21-13.37|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/arith_map.v:34.28-34.29",
             "force_downto": "00000000000000000000000000000001"
           }
         },
@@ -11077,7 +11077,7 @@
           "bits": [ 3879000 ] ,
           "attributes": {
             "ROUTING": "R17C3_EW20;R17C3_Q4_EW20;1;R17C4_W82;R17C4_E121_W820;1;R17C5_W10;R17C5_E828_W100;1;R17C5_W23;R17C5_W100_W230;1;R17C4_B6;R17C4_W231_B6;1;R17C3_Q4;;1;R17C3_SN10;R17C3_Q4_SN10;1;R16C3_E25;R16C3_N111_E250;1;R16C4_X08;R16C4_E251_X08;1;R16C4_B4;R16C4_X08_B4;1",
-            "src": "/home/jishnu/Dropbox/Verilog_studies/Tang_test/counter.v:9.12-9.24"
+            "src": "/home/jishnu/codespace/fpgacodes/Tang_test/counter.v:9.12-9.24"
           }
         },
         "clockCounter_ALU_I1_8_COUT[2]": {
@@ -11086,7 +11086,7 @@
           "attributes": {
             "ROUTING": " ",
             "unused_bits": "23",
-            "src": "/home/jishnu/Dropbox/Verilog_studies/Tang_test/counter.v:13.21-13.37|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/arith_map.v:52.24-52.25",
+            "src": "/home/jishnu/codespace/fpgacodes/Tang_test/counter.v:13.21-13.37|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/arith_map.v:52.24-52.25",
             "force_downto": "00000000000000000000000000000001"
           }
         },
@@ -11095,7 +11095,7 @@
           "bits": [ 3878996 ] ,
           "attributes": {
             "ROUTING": "R16C4_F5;;1;R16C4_N13;R16C4_F5_N130;1;R15C4_W83;R15C4_N131_W830;1;R15C5_W10;R15C5_E838_W100;1;R15C4_S20;R15C4_W101_S200;1;R15C4_A4;R15C4_S200_A4;1",
-            "src": "/home/jishnu/Dropbox/Verilog_studies/Tang_test/counter.v:13.21-13.37|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/arith_map.v:34.28-34.29",
+            "src": "/home/jishnu/codespace/fpgacodes/Tang_test/counter.v:13.21-13.37|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/arith_map.v:34.28-34.29",
             "force_downto": "00000000000000000000000000000001"
           }
         },
@@ -11104,7 +11104,7 @@
           "bits": [ 3878995 ] ,
           "attributes": {
             "ROUTING": "R16C4_S22;R16C4_S121_S220;1;R17C4_C6;R17C4_S221_C6;1;R15C4_Q4;;1;R15C4_SN20;R15C4_Q4_SN20;1;R16C4_B5;R16C4_S121_B5;1",
-            "src": "/home/jishnu/Dropbox/Verilog_studies/Tang_test/counter.v:9.12-9.24"
+            "src": "/home/jishnu/codespace/fpgacodes/Tang_test/counter.v:9.12-9.24"
           }
         },
         "clockCounter_ALU_I1_8_COUT[3]": {
@@ -11113,7 +11113,7 @@
           "attributes": {
             "ROUTING": " ",
             "unused_bits": "23",
-            "src": "/home/jishnu/Dropbox/Verilog_studies/Tang_test/counter.v:13.21-13.37|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/arith_map.v:52.24-52.25",
+            "src": "/home/jishnu/codespace/fpgacodes/Tang_test/counter.v:13.21-13.37|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/arith_map.v:52.24-52.25",
             "force_downto": "00000000000000000000000000000001"
           }
         },
@@ -11122,7 +11122,7 @@
           "bits": [ 3878991 ] ,
           "attributes": {
             "ROUTING": "R16C5_F0;;1;R16C5_E13;R16C5_F0_E130;1;R16C5_S26;R16C5_E130_S260;1;R18C5_X07;R18C5_S262_X07;1;R18C5_A2;R18C5_X07_A2;1",
-            "src": "/home/jishnu/Dropbox/Verilog_studies/Tang_test/counter.v:13.21-13.37|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/arith_map.v:34.28-34.29",
+            "src": "/home/jishnu/codespace/fpgacodes/Tang_test/counter.v:13.21-13.37|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/arith_map.v:34.28-34.29",
             "force_downto": "00000000000000000000000000000001"
           }
         },
@@ -11131,7 +11131,7 @@
           "bits": [ 3878990 ] ,
           "attributes": {
             "ROUTING": "R17C5_A7;R17C5_N211_A7;1;R18C5_Q2;;1;R18C5_S10;R18C5_Q2_S100;1;R18C5_N21;R18C5_S100_N210;1;R16C5_B0;R16C5_N212_B0;1",
-            "src": "/home/jishnu/Dropbox/Verilog_studies/Tang_test/counter.v:9.12-9.24"
+            "src": "/home/jishnu/codespace/fpgacodes/Tang_test/counter.v:9.12-9.24"
           }
         },
         "clockCounter_ALU_I1_8_COUT[4]": {
@@ -11140,7 +11140,7 @@
           "attributes": {
             "ROUTING": " ",
             "unused_bits": "23",
-            "src": "/home/jishnu/Dropbox/Verilog_studies/Tang_test/counter.v:13.21-13.37|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/arith_map.v:52.24-52.25",
+            "src": "/home/jishnu/codespace/fpgacodes/Tang_test/counter.v:13.21-13.37|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/arith_map.v:52.24-52.25",
             "force_downto": "00000000000000000000000000000001"
           }
         },
@@ -11149,7 +11149,7 @@
           "bits": [ 3878986 ] ,
           "attributes": {
             "ROUTING": "R16C5_F1;;1;R16C5_S13;R16C5_F1_S130;1;R17C5_S23;R17C5_S131_S230;1;R18C5_A4;R18C5_S231_A4;1",
-            "src": "/home/jishnu/Dropbox/Verilog_studies/Tang_test/counter.v:13.21-13.37|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/arith_map.v:34.28-34.29",
+            "src": "/home/jishnu/codespace/fpgacodes/Tang_test/counter.v:13.21-13.37|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/arith_map.v:34.28-34.29",
             "force_downto": "00000000000000000000000000000001"
           }
         },
@@ -11158,7 +11158,7 @@
           "bits": [ 3878985 ] ,
           "attributes": {
             "ROUTING": "R17C5_B7;R17C5_N101_B7;1;R18C5_Q4;;1;R18C5_N10;R18C5_Q4_N100;1;R17C5_N24;R17C5_N101_N240;1;R16C5_X05;R16C5_N241_X05;1;R16C5_B1;R16C5_X05_B1;1",
-            "src": "/home/jishnu/Dropbox/Verilog_studies/Tang_test/counter.v:9.12-9.24"
+            "src": "/home/jishnu/codespace/fpgacodes/Tang_test/counter.v:9.12-9.24"
           }
         },
         "clockCounter_ALU_I1_8_COUT[5]": {
@@ -11167,7 +11167,7 @@
           "attributes": {
             "ROUTING": " ",
             "unused_bits": "23",
-            "src": "/home/jishnu/Dropbox/Verilog_studies/Tang_test/counter.v:13.21-13.37|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/arith_map.v:52.24-52.25",
+            "src": "/home/jishnu/codespace/fpgacodes/Tang_test/counter.v:13.21-13.37|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/arith_map.v:52.24-52.25",
             "force_downto": "00000000000000000000000000000001"
           }
         },
@@ -11176,7 +11176,7 @@
           "bits": [ 3878981 ] ,
           "attributes": {
             "ROUTING": "R16C4_F1;;1;R16C4_S21;R16C4_F1_S210;1;R17C4_X02;R17C4_S211_X02;1;R17C4_A2;R17C4_X02_A2;1",
-            "src": "/home/jishnu/Dropbox/Verilog_studies/Tang_test/counter.v:13.21-13.37|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/arith_map.v:34.28-34.29",
+            "src": "/home/jishnu/codespace/fpgacodes/Tang_test/counter.v:13.21-13.37|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/arith_map.v:34.28-34.29",
             "force_downto": "00000000000000000000000000000001"
           }
         },
@@ -11185,7 +11185,7 @@
           "bits": [ 3878980 ] ,
           "attributes": {
             "ROUTING": "R17C4_X01;R17C4_Q2_X01;1;R17C4_A7;R17C4_X01_A7;1;R17C4_Q2;;1;R17C4_W10;R17C4_Q2_W100;1;R17C4_N23;R17C4_W100_N230;1;R16C4_B1;R16C4_N231_B1;1",
-            "src": "/home/jishnu/Dropbox/Verilog_studies/Tang_test/counter.v:9.12-9.24"
+            "src": "/home/jishnu/codespace/fpgacodes/Tang_test/counter.v:9.12-9.24"
           }
         },
         "clockCounter_DFFR_Q_D[10]": {
@@ -11193,7 +11193,7 @@
           "bits": [ 3878978 ] ,
           "attributes": {
             "ROUTING": "R16C5_F5;;1;R16C5_W10;R16C5_F5_W100;1;R16C5_S23;R16C5_W100_S230;1;R17C5_X02;R17C5_S231_X02;1;R17C5_A2;R17C5_X02_A2;1",
-            "src": "/home/jishnu/Dropbox/Verilog_studies/Tang_test/counter.v:13.21-13.37|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/arith_map.v:34.28-34.29",
+            "src": "/home/jishnu/codespace/fpgacodes/Tang_test/counter.v:13.21-13.37|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/arith_map.v:34.28-34.29",
             "force_downto": "00000000000000000000000000000001"
           }
         },
@@ -11202,7 +11202,7 @@
           "bits": [ 3878977 ] ,
           "attributes": {
             "ROUTING": "R17C5_W13;R17C5_Q2_W130;1;R17C5_N27;R17C5_W130_N270;1;R17C5_D7;R17C5_N270_D7;1;R17C5_Q2;;1;R17C5_N10;R17C5_Q2_N100;1;R16C5_B5;R16C5_N101_B5;1",
-            "src": "/home/jishnu/Dropbox/Verilog_studies/Tang_test/counter.v:9.12-9.24"
+            "src": "/home/jishnu/codespace/fpgacodes/Tang_test/counter.v:9.12-9.24"
           }
         },
         "clockCounter_DFFR_Q_D[11]": {
@@ -11210,7 +11210,7 @@
           "bits": [ 3878975 ] ,
           "attributes": {
             "ROUTING": "R16C6_F0;;1;R16C6_SN10;R16C6_F0_SN10;1;R15C6_A0;R15C6_N111_A0;1",
-            "src": "/home/jishnu/Dropbox/Verilog_studies/Tang_test/counter.v:13.21-13.37|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/arith_map.v:34.28-34.29",
+            "src": "/home/jishnu/codespace/fpgacodes/Tang_test/counter.v:13.21-13.37|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/arith_map.v:34.28-34.29",
             "force_downto": "00000000000000000000000000000001"
           }
         },
@@ -11219,7 +11219,7 @@
           "bits": [ 3878974 ] ,
           "attributes": {
             "ROUTING": "R16C6_W20;R16C6_S201_W200;1;R16C6_A6;R16C6_W200_A6;1;R15C6_Q0;;1;R15C6_S20;R15C6_Q0_S200;1;R16C6_X07;R16C6_S201_X07;1;R16C6_B0;R16C6_X07_B0;1",
-            "src": "/home/jishnu/Dropbox/Verilog_studies/Tang_test/counter.v:9.12-9.24"
+            "src": "/home/jishnu/codespace/fpgacodes/Tang_test/counter.v:9.12-9.24"
           }
         },
         "clockCounter_ALU_I1_8_COUT[10]": {
@@ -11228,7 +11228,7 @@
           "attributes": {
             "ROUTING": " ",
             "unused_bits": "23",
-            "src": "/home/jishnu/Dropbox/Verilog_studies/Tang_test/counter.v:13.21-13.37|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/arith_map.v:52.24-52.25",
+            "src": "/home/jishnu/codespace/fpgacodes/Tang_test/counter.v:13.21-13.37|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/arith_map.v:52.24-52.25",
             "force_downto": "00000000000000000000000000000001"
           }
         },
@@ -11237,7 +11237,7 @@
           "bits": [ 3878970 ] ,
           "attributes": {
             "ROUTING": "R16C6_F1;;1;R16C6_E13;R16C6_F1_E130;1;R16C6_N26;R16C6_E130_N260;1;R15C6_X05;R15C6_N261_X05;1;R15C6_A3;R15C6_X05_A3;1",
-            "src": "/home/jishnu/Dropbox/Verilog_studies/Tang_test/counter.v:13.21-13.37|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/arith_map.v:34.28-34.29",
+            "src": "/home/jishnu/codespace/fpgacodes/Tang_test/counter.v:13.21-13.37|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/arith_map.v:34.28-34.29",
             "force_downto": "00000000000000000000000000000001"
           }
         },
@@ -11246,7 +11246,7 @@
           "bits": [ 3878969 ] ,
           "attributes": {
             "ROUTING": "R15C6_W13;R15C6_Q3_W130;1;R15C6_S27;R15C6_W130_S270;1;R16C6_B6;R16C6_S271_B6;1;R15C6_Q3;;1;R15C6_SN10;R15C6_Q3_SN10;1;R16C6_B1;R16C6_S111_B1;1",
-            "src": "/home/jishnu/Dropbox/Verilog_studies/Tang_test/counter.v:9.12-9.24"
+            "src": "/home/jishnu/codespace/fpgacodes/Tang_test/counter.v:9.12-9.24"
           }
         },
         "clockCounter_ALU_I1_8_COUT[11]": {
@@ -11255,7 +11255,7 @@
           "attributes": {
             "ROUTING": " ",
             "unused_bits": "23",
-            "src": "/home/jishnu/Dropbox/Verilog_studies/Tang_test/counter.v:13.21-13.37|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/arith_map.v:52.24-52.25",
+            "src": "/home/jishnu/codespace/fpgacodes/Tang_test/counter.v:13.21-13.37|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/arith_map.v:52.24-52.25",
             "force_downto": "00000000000000000000000000000001"
           }
         },
@@ -11264,7 +11264,7 @@
           "bits": [ 3878965 ] ,
           "attributes": {
             "ROUTING": "R16C5_F2;;1;R16C5_SN20;R16C5_F2_SN20;1;R15C5_W82;R15C5_N121_W820;1;R15C4_E24;R15C4_E828_E240;1;R15C5_X07;R15C5_E241_X07;1;R15C5_A2;R15C5_X07_A2;1",
-            "src": "/home/jishnu/Dropbox/Verilog_studies/Tang_test/counter.v:13.21-13.37|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/arith_map.v:34.28-34.29",
+            "src": "/home/jishnu/codespace/fpgacodes/Tang_test/counter.v:13.21-13.37|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/arith_map.v:34.28-34.29",
             "force_downto": "00000000000000000000000000000001"
           }
         },
@@ -11273,7 +11273,7 @@
           "bits": [ 3878964 ] ,
           "attributes": {
             "ROUTING": "R17C5_W22;R17C5_S222_W220;1;R17C4_D6;R17C4_W221_D6;1;R15C5_Q2;;1;R15C5_S22;R15C5_Q2_S220;1;R16C5_X01;R16C5_S221_X01;1;R16C5_B2;R16C5_X01_B2;1",
-            "src": "/home/jishnu/Dropbox/Verilog_studies/Tang_test/counter.v:9.12-9.24"
+            "src": "/home/jishnu/codespace/fpgacodes/Tang_test/counter.v:9.12-9.24"
           }
         },
         "clockCounter_ALU_I1_8_COUT[6]": {
@@ -11282,7 +11282,7 @@
           "attributes": {
             "ROUTING": " ",
             "unused_bits": "23",
-            "src": "/home/jishnu/Dropbox/Verilog_studies/Tang_test/counter.v:13.21-13.37|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/arith_map.v:52.24-52.25",
+            "src": "/home/jishnu/codespace/fpgacodes/Tang_test/counter.v:13.21-13.37|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/arith_map.v:52.24-52.25",
             "force_downto": "00000000000000000000000000000001"
           }
         },
@@ -11291,7 +11291,7 @@
           "bits": [ 3878960 ] ,
           "attributes": {
             "ROUTING": "R16C6_F2;;1;R16C6_N10;R16C6_F2_N100;1;R16C6_S20;R16C6_N100_S200;1;R17C6_E20;R17C6_S201_E200;1;R17C6_A2;R17C6_E200_A2;1",
-            "src": "/home/jishnu/Dropbox/Verilog_studies/Tang_test/counter.v:13.21-13.37|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/arith_map.v:34.28-34.29",
+            "src": "/home/jishnu/codespace/fpgacodes/Tang_test/counter.v:13.21-13.37|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/arith_map.v:34.28-34.29",
             "force_downto": "00000000000000000000000000000001"
           }
         },
@@ -11300,7 +11300,7 @@
           "bits": [ 3878959 ] ,
           "attributes": {
             "ROUTING": "R16C6_C6;R16C6_N221_C6;1;R17C6_Q2;;1;R17C6_N22;R17C6_Q2_N220;1;R16C6_X01;R16C6_N221_X01;1;R16C6_B2;R16C6_X01_B2;1",
-            "src": "/home/jishnu/Dropbox/Verilog_studies/Tang_test/counter.v:9.12-9.24"
+            "src": "/home/jishnu/codespace/fpgacodes/Tang_test/counter.v:9.12-9.24"
           }
         },
         "clockCounter_ALU_I1_8_COUT[12]": {
@@ -11309,7 +11309,7 @@
           "attributes": {
             "ROUTING": " ",
             "unused_bits": "23",
-            "src": "/home/jishnu/Dropbox/Verilog_studies/Tang_test/counter.v:13.21-13.37|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/arith_map.v:52.24-52.25",
+            "src": "/home/jishnu/codespace/fpgacodes/Tang_test/counter.v:13.21-13.37|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/arith_map.v:52.24-52.25",
             "force_downto": "00000000000000000000000000000001"
           }
         },
@@ -11318,7 +11318,7 @@
           "bits": [ 3878955 ] ,
           "attributes": {
             "ROUTING": "R16C6_F3;;1;R16C6_N13;R16C6_F3_N130;1;R16C6_S24;R16C6_N130_S240;1;R17C6_X05;R17C6_S241_X05;1;R17C6_A5;R17C6_X05_A5;1",
-            "src": "/home/jishnu/Dropbox/Verilog_studies/Tang_test/counter.v:13.21-13.37|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/arith_map.v:34.28-34.29",
+            "src": "/home/jishnu/codespace/fpgacodes/Tang_test/counter.v:13.21-13.37|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/arith_map.v:34.28-34.29",
             "force_downto": "00000000000000000000000000000001"
           }
         },
@@ -11327,7 +11327,7 @@
           "bits": [ 3878954 ] ,
           "attributes": {
             "ROUTING": "R16C6_D6;R16C6_X04_D6;1;R17C6_Q5;;1;R17C6_N25;R17C6_Q5_N250;1;R16C6_X04;R16C6_N251_X04;1;R16C6_B3;R16C6_X04_B3;1",
-            "src": "/home/jishnu/Dropbox/Verilog_studies/Tang_test/counter.v:9.12-9.24"
+            "src": "/home/jishnu/codespace/fpgacodes/Tang_test/counter.v:9.12-9.24"
           }
         },
         "clockCounter_ALU_I1_8_COUT[13]": {
@@ -11336,7 +11336,7 @@
           "attributes": {
             "ROUTING": " ",
             "unused_bits": "23",
-            "src": "/home/jishnu/Dropbox/Verilog_studies/Tang_test/counter.v:13.21-13.37|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/arith_map.v:52.24-52.25",
+            "src": "/home/jishnu/codespace/fpgacodes/Tang_test/counter.v:13.21-13.37|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/arith_map.v:52.24-52.25",
             "force_downto": "00000000000000000000000000000001"
           }
         },
@@ -11345,7 +11345,7 @@
           "bits": [ 3878950 ] ,
           "attributes": {
             "ROUTING": "R16C6_F4;;1;R16C6_S10;R16C6_F4_S100;1;R17C6_S20;R17C6_S101_S200;1;R18C6_X07;R18C6_S201_X07;1;R18C6_A5;R18C6_X07_A5;1",
-            "src": "/home/jishnu/Dropbox/Verilog_studies/Tang_test/counter.v:13.21-13.37|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/arith_map.v:34.28-34.29",
+            "src": "/home/jishnu/codespace/fpgacodes/Tang_test/counter.v:13.21-13.37|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/arith_map.v:34.28-34.29",
             "force_downto": "00000000000000000000000000000001"
           }
         },
@@ -11354,7 +11354,7 @@
           "bits": [ 3878949 ] ,
           "attributes": {
             "ROUTING": "R18C6_N24;R18C6_N130_N240;1;R17C6_X03;R17C6_N241_X03;1;R17C6_A6;R17C6_X03_A6;1;R18C6_Q5;;1;R18C6_N13;R18C6_Q5_N130;1;R17C6_N27;R17C6_N131_N270;1;R16C6_B4;R16C6_N271_B4;1",
-            "src": "/home/jishnu/Dropbox/Verilog_studies/Tang_test/counter.v:9.12-9.24"
+            "src": "/home/jishnu/codespace/fpgacodes/Tang_test/counter.v:9.12-9.24"
           }
         },
         "clockCounter_ALU_I1_8_COUT[14]": {
@@ -11363,7 +11363,7 @@
           "attributes": {
             "ROUTING": " ",
             "unused_bits": "23",
-            "src": "/home/jishnu/Dropbox/Verilog_studies/Tang_test/counter.v:13.21-13.37|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/arith_map.v:52.24-52.25",
+            "src": "/home/jishnu/codespace/fpgacodes/Tang_test/counter.v:13.21-13.37|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/arith_map.v:52.24-52.25",
             "force_downto": "00000000000000000000000000000001"
           }
         },
@@ -11372,7 +11372,7 @@
           "bits": [ 3878945 ] ,
           "attributes": {
             "ROUTING": "R16C6_F5;;1;R16C6_W10;R16C6_F5_W100;1;R16C6_S23;R16C6_W100_S230;1;R17C6_X02;R17C6_S231_X02;1;R17C6_A0;R17C6_X02_A0;1",
-            "src": "/home/jishnu/Dropbox/Verilog_studies/Tang_test/counter.v:13.21-13.37|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/arith_map.v:34.28-34.29",
+            "src": "/home/jishnu/codespace/fpgacodes/Tang_test/counter.v:13.21-13.37|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/arith_map.v:34.28-34.29",
             "force_downto": "00000000000000000000000000000001"
           }
         },
@@ -11381,7 +11381,7 @@
           "bits": [ 3878944 ] ,
           "attributes": {
             "ROUTING": "R17C6_N13;R17C6_Q0_N130;1;R17C6_E24;R17C6_N130_E240;1;R17C6_B6;R17C6_E240_B6;1;R17C6_Q0;;1;R17C6_N10;R17C6_Q0_N100;1;R16C6_B5;R16C6_N101_B5;1",
-            "src": "/home/jishnu/Dropbox/Verilog_studies/Tang_test/counter.v:9.12-9.24"
+            "src": "/home/jishnu/codespace/fpgacodes/Tang_test/counter.v:9.12-9.24"
           }
         },
         "clockCounter_ALU_I1_8_COUT[15]": {
@@ -11390,7 +11390,7 @@
           "attributes": {
             "ROUTING": " ",
             "unused_bits": "23",
-            "src": "/home/jishnu/Dropbox/Verilog_studies/Tang_test/counter.v:13.21-13.37|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/arith_map.v:52.24-52.25",
+            "src": "/home/jishnu/codespace/fpgacodes/Tang_test/counter.v:13.21-13.37|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/arith_map.v:52.24-52.25",
             "force_downto": "00000000000000000000000000000001"
           }
         },
@@ -11399,7 +11399,7 @@
           "bits": [ 3878940 ] ,
           "attributes": {
             "ROUTING": "R16C7_F0;;1;R16C7_E13;R16C7_F0_E130;1;R16C7_S26;R16C7_E130_S260;1;R18C7_X07;R18C7_S262_X07;1;R18C7_A2;R18C7_X07_A2;1",
-            "src": "/home/jishnu/Dropbox/Verilog_studies/Tang_test/counter.v:13.21-13.37|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/arith_map.v:34.28-34.29",
+            "src": "/home/jishnu/codespace/fpgacodes/Tang_test/counter.v:13.21-13.37|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/arith_map.v:34.28-34.29",
             "force_downto": "00000000000000000000000000000001"
           }
         },
@@ -11408,7 +11408,7 @@
           "bits": [ 3878939 ] ,
           "attributes": {
             "ROUTING": "R16C7_X08;R16C7_N232_X08;1;R16C7_B6;R16C7_X08_B6;1;R18C7_Q2;;1;R18C7_W10;R18C7_Q2_W100;1;R18C7_N23;R18C7_W100_N230;1;R16C7_B0;R16C7_N232_B0;1",
-            "src": "/home/jishnu/Dropbox/Verilog_studies/Tang_test/counter.v:9.12-9.24"
+            "src": "/home/jishnu/codespace/fpgacodes/Tang_test/counter.v:9.12-9.24"
           }
         },
         "clockCounter_ALU_I1_8_COUT[16]": {
@@ -11417,7 +11417,7 @@
           "attributes": {
             "ROUTING": " ",
             "unused_bits": "23",
-            "src": "/home/jishnu/Dropbox/Verilog_studies/Tang_test/counter.v:13.21-13.37|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/arith_map.v:52.24-52.25",
+            "src": "/home/jishnu/codespace/fpgacodes/Tang_test/counter.v:13.21-13.37|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/arith_map.v:52.24-52.25",
             "force_downto": "00000000000000000000000000000001"
           }
         },
@@ -11426,7 +11426,7 @@
           "bits": [ 3878935 ] ,
           "attributes": {
             "ROUTING": "R16C7_F1;;1;R16C7_S21;R16C7_F1_S210;1;R17C7_E21;R17C7_S211_E210;1;R17C7_A0;R17C7_E210_A0;1",
-            "src": "/home/jishnu/Dropbox/Verilog_studies/Tang_test/counter.v:13.21-13.37|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/arith_map.v:34.28-34.29",
+            "src": "/home/jishnu/codespace/fpgacodes/Tang_test/counter.v:13.21-13.37|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/arith_map.v:34.28-34.29",
             "force_downto": "00000000000000000000000000000001"
           }
         },
@@ -11435,7 +11435,7 @@
           "bits": [ 3878934 ] ,
           "attributes": {
             "ROUTING": "R17C7_N13;R17C7_Q0_N130;1;R17C7_W24;R17C7_N130_W240;1;R17C6_C6;R17C6_W241_C6;1;R17C7_Q0;;1;R17C7_N20;R17C7_Q0_N200;1;R16C7_X07;R16C7_N201_X07;1;R16C7_B1;R16C7_X07_B1;1",
-            "src": "/home/jishnu/Dropbox/Verilog_studies/Tang_test/counter.v:9.12-9.24"
+            "src": "/home/jishnu/codespace/fpgacodes/Tang_test/counter.v:9.12-9.24"
           }
         },
         "clockCounter_ALU_I1_8_COUT[17]": {
@@ -11444,7 +11444,7 @@
           "attributes": {
             "ROUTING": " ",
             "unused_bits": "23",
-            "src": "/home/jishnu/Dropbox/Verilog_studies/Tang_test/counter.v:13.21-13.37|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/arith_map.v:52.24-52.25",
+            "src": "/home/jishnu/codespace/fpgacodes/Tang_test/counter.v:13.21-13.37|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/arith_map.v:52.24-52.25",
             "force_downto": "00000000000000000000000000000001"
           }
         },
@@ -11453,7 +11453,7 @@
           "bits": [ 3878930 ] ,
           "attributes": {
             "ROUTING": "R16C7_F2;;1;R16C7_N13;R16C7_F2_N130;1;R16C7_E24;R16C7_N130_E240;1;R16C8_S24;R16C8_E241_S240;1;R17C8_X05;R17C8_S241_X05;1;R17C8_A4;R17C8_X05_A4;1",
-            "src": "/home/jishnu/Dropbox/Verilog_studies/Tang_test/counter.v:13.21-13.37|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/arith_map.v:34.28-34.29",
+            "src": "/home/jishnu/codespace/fpgacodes/Tang_test/counter.v:13.21-13.37|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/arith_map.v:34.28-34.29",
             "force_downto": "00000000000000000000000000000001"
           }
         },
@@ -11462,7 +11462,7 @@
           "bits": [ 3878929 ] ,
           "attributes": {
             "ROUTING": "R17C7_W25;R17C7_S251_W250;1;R17C6_X04;R17C6_W251_X04;1;R17C6_D6;R17C6_X04_D6;1;R17C8_Q4;;1;R17C8_S13;R17C8_Q4_S130;1;R17C8_N25;R17C8_S130_N250;1;R16C8_W25;R16C8_N251_W250;1;R16C7_S25;R16C7_W251_S250;1;R16C7_B2;R16C7_S250_B2;1",
-            "src": "/home/jishnu/Dropbox/Verilog_studies/Tang_test/counter.v:9.12-9.24"
+            "src": "/home/jishnu/codespace/fpgacodes/Tang_test/counter.v:9.12-9.24"
           }
         },
         "clockCounter_ALU_I1_8_COUT[18]": {
@@ -11471,7 +11471,7 @@
           "attributes": {
             "ROUTING": " ",
             "unused_bits": "23",
-            "src": "/home/jishnu/Dropbox/Verilog_studies/Tang_test/counter.v:13.21-13.37|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/arith_map.v:52.24-52.25",
+            "src": "/home/jishnu/codespace/fpgacodes/Tang_test/counter.v:13.21-13.37|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/arith_map.v:52.24-52.25",
             "force_downto": "00000000000000000000000000000001"
           }
         },
@@ -11480,7 +11480,7 @@
           "bits": [ 3878925 ] ,
           "attributes": {
             "ROUTING": "R16C4_F2;;1;R16C4_S10;R16C4_F2_S100;1;R17C4_A5;R17C4_S101_A5;1",
-            "src": "/home/jishnu/Dropbox/Verilog_studies/Tang_test/counter.v:13.21-13.37|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/arith_map.v:34.28-34.29",
+            "src": "/home/jishnu/codespace/fpgacodes/Tang_test/counter.v:13.21-13.37|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/arith_map.v:34.28-34.29",
             "force_downto": "00000000000000000000000000000001"
           }
         },
@@ -11489,7 +11489,7 @@
           "bits": [ 3878924 ] ,
           "attributes": {
             "ROUTING": "R17C4_W13;R17C4_Q5_W130;1;R17C4_B7;R17C4_W130_B7;1;R17C4_Q5;;1;R17C4_E13;R17C4_Q5_E130;1;R17C4_N26;R17C4_E130_N260;1;R16C4_X03;R16C4_N261_X03;1;R16C4_B2;R16C4_X03_B2;1",
-            "src": "/home/jishnu/Dropbox/Verilog_studies/Tang_test/counter.v:9.12-9.24"
+            "src": "/home/jishnu/codespace/fpgacodes/Tang_test/counter.v:9.12-9.24"
           }
         },
         "clockCounter_ALU_I1_8_COUT[1]": {
@@ -11498,7 +11498,7 @@
           "attributes": {
             "ROUTING": " ",
             "unused_bits": "23",
-            "src": "/home/jishnu/Dropbox/Verilog_studies/Tang_test/counter.v:13.21-13.37|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/arith_map.v:52.24-52.25",
+            "src": "/home/jishnu/codespace/fpgacodes/Tang_test/counter.v:13.21-13.37|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/arith_map.v:52.24-52.25",
             "force_downto": "00000000000000000000000000000001"
           }
         },
@@ -11508,7 +11508,7 @@
           "attributes": {
             "ROUTING": " ",
             "unused_bits": "23",
-            "src": "/home/jishnu/Dropbox/Verilog_studies/Tang_test/counter.v:13.21-13.37|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/arith_map.v:52.24-52.25",
+            "src": "/home/jishnu/codespace/fpgacodes/Tang_test/counter.v:13.21-13.37|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/arith_map.v:52.24-52.25",
             "force_downto": "00000000000000000000000000000001"
           }
         },
@@ -11517,7 +11517,7 @@
           "bits": [ 3878918 ] ,
           "attributes": {
             "ROUTING": "R16C7_F3;;1;R16C7_SN10;R16C7_F3_SN10;1;R17C7_S25;R17C7_S111_S250;1;R18C7_X06;R18C7_S251_X06;1;R18C7_A4;R18C7_X06_A4;1",
-            "src": "/home/jishnu/Dropbox/Verilog_studies/Tang_test/counter.v:13.21-13.37|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/arith_map.v:34.28-34.29",
+            "src": "/home/jishnu/codespace/fpgacodes/Tang_test/counter.v:13.21-13.37|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/arith_map.v:34.28-34.29",
             "force_downto": "00000000000000000000000000000001"
           }
         },
@@ -11526,7 +11526,7 @@
           "bits": [ 3878917 ] ,
           "attributes": {
             "ROUTING": "R16C7_X05;R16C7_N261_X05;1;R16C7_C6;R16C7_X05_C6;1;R18C7_Q4;;1;R18C7_SN20;R18C7_Q4_SN20;1;R17C7_N26;R17C7_N121_N260;1;R16C7_X03;R16C7_N261_X03;1;R16C7_B3;R16C7_X03_B3;1",
-            "src": "/home/jishnu/Dropbox/Verilog_studies/Tang_test/counter.v:9.12-9.24"
+            "src": "/home/jishnu/codespace/fpgacodes/Tang_test/counter.v:9.12-9.24"
           }
         },
         "clockCounter_ALU_I1_8_COUT[19]": {
@@ -11535,7 +11535,7 @@
           "attributes": {
             "ROUTING": " ",
             "unused_bits": "23",
-            "src": "/home/jishnu/Dropbox/Verilog_studies/Tang_test/counter.v:13.21-13.37|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/arith_map.v:52.24-52.25",
+            "src": "/home/jishnu/codespace/fpgacodes/Tang_test/counter.v:13.21-13.37|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/arith_map.v:52.24-52.25",
             "force_downto": "00000000000000000000000000000001"
           }
         },
@@ -11544,7 +11544,7 @@
           "bits": [ 3878913 ] ,
           "attributes": {
             "ROUTING": "R16C7_F4;;1;R16C7_E10;R16C7_F4_E100;1;R16C8_E20;R16C8_E101_E200;1;R16C8_A2;R16C8_E200_A2;1",
-            "src": "/home/jishnu/Dropbox/Verilog_studies/Tang_test/counter.v:13.21-13.37|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/arith_map.v:34.28-34.29",
+            "src": "/home/jishnu/codespace/fpgacodes/Tang_test/counter.v:13.21-13.37|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/arith_map.v:34.28-34.29",
             "force_downto": "00000000000000000000000000000001"
           }
         },
@@ -11553,7 +11553,7 @@
           "bits": [ 3878912 ] ,
           "attributes": {
             "ROUTING": "R16C7_D6;R16C7_W221_D6;1;R16C8_Q2;;1;R16C8_W22;R16C8_Q2_W220;1;R16C7_X01;R16C7_W221_X01;1;R16C7_B4;R16C7_X01_B4;1",
-            "src": "/home/jishnu/Dropbox/Verilog_studies/Tang_test/counter.v:9.12-9.24"
+            "src": "/home/jishnu/codespace/fpgacodes/Tang_test/counter.v:9.12-9.24"
           }
         },
         "clockCounter_ALU_I1_8_COUT[21]": {
@@ -11562,7 +11562,7 @@
           "attributes": {
             "ROUTING": " ",
             "unused_bits": "23",
-            "src": "/home/jishnu/Dropbox/Verilog_studies/Tang_test/counter.v:13.21-13.37|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/arith_map.v:52.24-52.25",
+            "src": "/home/jishnu/codespace/fpgacodes/Tang_test/counter.v:13.21-13.37|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/arith_map.v:52.24-52.25",
             "force_downto": "00000000000000000000000000000001"
           }
         },
@@ -11572,7 +11572,7 @@
           "attributes": {
             "ROUTING": " ",
             "unused_bits": "23",
-            "src": "/home/jishnu/Dropbox/Verilog_studies/Tang_test/counter.v:13.21-13.37|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/arith_map.v:52.24-52.25",
+            "src": "/home/jishnu/codespace/fpgacodes/Tang_test/counter.v:13.21-13.37|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/arith_map.v:52.24-52.25",
             "force_downto": "00000000000000000000000000000001"
           }
         },
@@ -11581,7 +11581,7 @@
           "bits": [ 3878906 ] ,
           "attributes": {
             "ROUTING": "R16C5_F3;;1;R16C5_SN10;R16C5_F3_SN10;1;R15C5_A1;R15C5_N111_A1;1",
-            "src": "/home/jishnu/Dropbox/Verilog_studies/Tang_test/counter.v:13.21-13.37|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/arith_map.v:34.28-34.29",
+            "src": "/home/jishnu/codespace/fpgacodes/Tang_test/counter.v:13.21-13.37|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/arith_map.v:34.28-34.29",
             "force_downto": "00000000000000000000000000000001"
           }
         },
@@ -11590,7 +11590,7 @@
           "bits": [ 3878905 ] ,
           "attributes": {
             "ROUTING": "R16C5_E21;R16C5_S211_E210;1;R16C7_X06;R16C7_E212_X06;1;R16C7_A6;R16C7_X06_A6;1;R15C5_Q1;;1;R15C5_S21;R15C5_Q1_S210;1;R16C5_B3;R16C5_S211_B3;1",
-            "src": "/home/jishnu/Dropbox/Verilog_studies/Tang_test/counter.v:9.12-9.24"
+            "src": "/home/jishnu/codespace/fpgacodes/Tang_test/counter.v:9.12-9.24"
           }
         },
         "clockCounter_ALU_I1_8_COUT[7]": {
@@ -11599,7 +11599,7 @@
           "attributes": {
             "ROUTING": " ",
             "unused_bits": "23",
-            "src": "/home/jishnu/Dropbox/Verilog_studies/Tang_test/counter.v:13.21-13.37|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/arith_map.v:52.24-52.25",
+            "src": "/home/jishnu/codespace/fpgacodes/Tang_test/counter.v:13.21-13.37|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/arith_map.v:52.24-52.25",
             "force_downto": "00000000000000000000000000000001"
           }
         },
@@ -11608,7 +11608,7 @@
           "bits": [ 3878900 ] ,
           "attributes": {
             "ROUTING": "R16C5_F4;;1;R16C5_S10;R16C5_F4_S100;1;R17C5_A4;R17C5_S101_A4;1",
-            "src": "/home/jishnu/Dropbox/Verilog_studies/Tang_test/counter.v:13.21-13.37|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/arith_map.v:34.28-34.29",
+            "src": "/home/jishnu/codespace/fpgacodes/Tang_test/counter.v:13.21-13.37|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/arith_map.v:34.28-34.29",
             "force_downto": "00000000000000000000000000000001"
           }
         },
@@ -11624,7 +11624,7 @@
           "bits": [ 3878898 ] ,
           "attributes": {
             "ROUTING": "R17C5_C7;R17C5_N130_C7;1;R17C5_Q4;;1;R17C5_N13;R17C5_Q4_N130;1;R16C5_W83;R16C5_N131_W830;1;R16C4_E25;R16C4_E838_E250;1;R16C5_X08;R16C5_E251_X08;1;R16C5_B4;R16C5_X08_B4;1",
-            "src": "/home/jishnu/Dropbox/Verilog_studies/Tang_test/counter.v:9.12-9.24"
+            "src": "/home/jishnu/codespace/fpgacodes/Tang_test/counter.v:9.12-9.24"
           }
         },
         "$PACKER_GND_NET": {
@@ -11640,7 +11640,7 @@
           "attributes": {
             "ROUTING": " ",
             "unused_bits": "23",
-            "src": "/home/jishnu/Dropbox/Verilog_studies/Tang_test/counter.v:13.21-13.37|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/arith_map.v:52.24-52.25",
+            "src": "/home/jishnu/codespace/fpgacodes/Tang_test/counter.v:13.21-13.37|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/arith_map.v:52.24-52.25",
             "force_downto": "00000000000000000000000000000001"
           }
         },
@@ -11650,7 +11650,7 @@
           "attributes": {
             "ROUTING": " ",
             "unused_bits": "23",
-            "src": "/home/jishnu/Dropbox/Verilog_studies/Tang_test/counter.v:13.21-13.37|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/arith_map.v:52.24-52.25",
+            "src": "/home/jishnu/codespace/fpgacodes/Tang_test/counter.v:13.21-13.37|/home/jishnu/codespace/FPGA_DEVELOPMENT/oss-cad-suite-linux-x64-20221215/oss-cad-suite/lib/../share/yosys/gowin/arith_map.v:52.24-52.25",
             "force_downto": "00000000000000000000000000000001"
           }
         },

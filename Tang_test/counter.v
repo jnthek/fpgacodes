@@ -1,4 +1,4 @@
-module top
+module counter
 (
     input clk,
     output [5:0] led
@@ -14,8 +14,8 @@ begin
     if (clockCounter == WAIT_TIME) 
     begin
         clockCounter <= 0;
-        // ledCounter <= ledCounter + 1;
-        ledCounter <= ~ledCounter;
+        ledCounter <= ledCounter + 1;
+        // ledCounter <= ~ledCounter;
     end
 end
 
