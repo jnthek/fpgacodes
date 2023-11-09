@@ -1,3 +1,5 @@
 *.fs
 *.json
 *.out
+*.vcd
+my_design
